@@ -270,16 +270,12 @@ game:GetService("ReplicatedStorage").Code:FireServer(unpack(args))
 end)
 
 --Credits
-u:Button("maxgat5#8395",function()
-    setclipboard("maxgat5#8395")
-end)
-
-u:Button("eixotic07#2313",function()
-    setclipboard("eixotic07#2313")
+u:Button("Donkey#9999",function()
+    setclipboard("Donkey#9999")
 end)
  
 u:Button("Discord Server",function()
-    setclipboard("https://discord.gg/K4txdRSVfq")
+    setclipboard("https://discord.gg/XmJAARMzW5")
 end)
 
 pcall(function()
